@@ -10,3 +10,11 @@ function saluer(nom) {
 
 // Appel de la fonction
 console.log(saluer("AMAZIGH"));
+
+// Modification ajoutée dans branche1
+function addition(a, b) {
+    return a + b;
+}
+
+console.log("Résultat de addition(4, 6) = " + addition(4, 6));
+
